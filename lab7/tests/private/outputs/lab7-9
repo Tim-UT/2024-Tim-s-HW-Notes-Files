@@ -1,0 +1,48 @@
+Enter the board dimension:   abcdefgh
+a UUUUUUUU
+b UUUUUUUU
+c UUUUUUUU
+d UUUWBUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Enter board configuration:
+  abcdefgh
+a UUUUUUUU
+b UUUUUUUU
+c UUUUBUUU
+d UUUWBBWU
+e UUUBWWUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Available moves for W:
+be
+bf
+cd
+cf
+cg
+ec
+fd
+Available moves for B:
+cd
+dc
+dh
+ec
+eg
+fd
+fe
+ff
+fg
+Enter a move:
+Valid move.
+  abcdefgh
+a UUUUUUUU
+b UUUUUUUU
+c UUUBBUUU
+d UUUBBBWU
+e UUUBWWUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
